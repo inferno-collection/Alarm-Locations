@@ -205,7 +205,7 @@ system { name = "Ammn-Nation - Great Ocean Hwy", location = "Great Ocean Hwy, Pa
     hidden { position = vec3(-331.684, 6079.097, 33.37), archetype = "prop_v_15_cars_clock" }
 
 
-system { name = "Ammu-Nation - Barbareno Rd", location = "Barbareno Rd, Chumash", position = vec3(-3167.212, 1083.823, 20.839) }
+system { name = "Ammu-Nation - Barbareno Rd", location = "Barbareno Rd, Chumash", position = vec3(-3172.940, 1090.800, 20.840) }
 
     controlpanel { name = "Behind Counter", position = vec3(-3169.537, 1090.361, 20.809), rotation = vec3(0, 0, 156.581), passcode = "", virtual = false }
 

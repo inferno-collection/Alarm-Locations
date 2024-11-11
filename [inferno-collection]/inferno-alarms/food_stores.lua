@@ -1,8 +1,8 @@
 -- Inferno Collection Fire Alarm Reborn
 -- 
 -- Copyright (c) 2019-2024, Christopher M, Inferno Collection. All rights reserved.
-
--- Generated with the Inferno Fire Alarm Reborn Tool 11/06/2024 05:11:31 UTC
+--
+-- Generated with the Inferno Fire Alarm Reborn Tool 11/11/2024 03:36:18 UTC
 
 system { name = "LTD Gasoline - West Mirror Drive", location = "West Mirror Drive, Mirror Park", position = vec3(1159.356, -325.028, 69.205) }
 
@@ -22,15 +22,19 @@ system { name = "LTD Gasoline - West Mirror Drive", location = "West Mirror Driv
     strobe { position = vec3(1163.066, -318.319, 71.511), rotation = vec3(0, 0, 100), virtual = false }
 
 
-system { name = "Scoops Liquor Barn - Route 68", location = "Route 68, Grand Senora Desert", position = vec3(1166.455, 2705.97, 38.158) }
+system { name = "Scoops Liquor Barn - Route 68", location = "Route 68, Grand Senora Desert", position = vec3(1163.140, 2715.130, 39.130) }
 
     controlpanel { name = "Hallway", position = vec3(1168.321, 2712.517, 38.605), rotation = vec3(0, 0, -90), passcode = "", virtual = false }
 
     pullstation { name = "Behind Counter", position = vec3(1167.352, 2712.043, 38.452), rotation = vec3(0, 0, 90), virtual = false }
 
+    sounder { position = vec3(1167.352, 2712.206, 40.425), rotation = vec3(0, 0, 90), virtual = false }
+
     detector { name = "Store Floor", position = vec3(1166.487, 2708.587, 40.756), rotation = vec3(0, 0, 0), virtual =  false  }
     detector { name = "Hallway", position = vec3(1165.623, 2714.169, 40.756), rotation = vec3(0, 0, 0), virtual =  false  }
     detector { name = "Back Room", position = vec3(1169.226, 2719.298, 40.479), rotation = vec3(0, 0, 0), virtual =  false  }
+
+    strobe { position = vec3(1162.773, 2704.907, 40.481), rotation = vec3(0, 0, -90), virtual = false }
 
 
 system { name = "24/7 - Route 68", location = "Route 68, Harmony", position = vec3(544.494, 2670.521, 42.156) }
@@ -39,11 +43,15 @@ system { name = "24/7 - Route 68", location = "Route 68, Harmony", position = ve
 
     pullstation { name = "Back Room", position = vec3(548.36, 2665.631, 42.661), rotation = vec3(0, 0, -172.5), virtual = false }
 
-    sprinkler { position = vec3(545.89, 2670.65, 44.582), rotation = vec3(0, 0.001, 0), virtual = true }
-    sprinkler { position = vec3(543.019, 2670.334, 44.582), rotation = vec3(0, 0.001, 0), virtual = true }
+    sounder { position = vec3(538.762, 2671.163, 44.467), rotation = vec3(0, 0, -82.5), virtual = false }
+
+    sprinkler { position = vec3(545.974, 2670.682, 44.582), rotation = vec3(0, 0.001, 0), virtual = true }
+    sprinkler { position = vec3(543.003, 2670.312, 44.582), rotation = vec3(0, 0.001, 0), virtual = true }
     sprinkler { position = vec3(543.39, 2667.314, 44.582), rotation = vec3(0, 0.001, 0), virtual = true }
     sprinkler { position = vec3(546.319, 2667.688, 44.582), rotation = vec3(0, 0.001, 0), virtual = true }
     sprinkler { position = vec3(547.118, 2663.191, 44.582), rotation = vec3(0, 0, 0), virtual = true }
+
+    strobe { position = vec3(550.579, 2666.786, 44.486), rotation = vec3(0, 0, 97.5), virtual = false }
 
 
 system { name = "Ace Liquor - Algonquin Blvd", location = "Algonquin Blvd, Sandy Shores", position = vec3(1393.447, 3601.8, 34.981) }
@@ -177,6 +185,8 @@ system { name = "Rob's Liquor - Prosperity St", location = "Prosperity St, Morni
     controlpanel { name = "Hallway", position = vec3(-1483.376, -378.513, 40.595), rotation = vec3(0, 0, -135.074), passcode = "", virtual = false }
 
     pullstation { name = "Behind Counter", position = vec3(-1484.384, -378.149, 40.421), rotation = vec3(0, 0, 44.926), virtual = false }
+
+    sounder { position = vec3(-1484.282, -378.048, 42.451), rotation = vec3(0, 0, 44.926), virtual = false }
 
     detector { name = "Store Floor", position = vec3(-1487.421, -379.992, 42.762), rotation = vec3(0, 0, 0), virtual =  false  }
     detector { name = "Hallway", position = vec3(-1484.2, -375.398, 42.762), rotation = vec3(0, 0, 0), virtual =  false  }

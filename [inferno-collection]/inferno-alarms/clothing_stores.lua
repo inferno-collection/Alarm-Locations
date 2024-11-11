@@ -24,7 +24,7 @@ system { name = "Discount Store - Grapeseed Ave", location = "Grapeseed Main St,
     strobe { position = vec3(1696.149, 4824.767, 44.151), rotation = vec3(0, 0, 97.54), virtual = false }
 
 
-system { name = "Discount Store - Route 68", location = "Route 68, Grand Senora Desert", position = vec3(1198.197, 2705.297, 38.224) }
+system { name = "Discount Store - Route 68", location = "Route 68, Grand Senora Desert", position = vec3(1202.530, 2714.300, 38.220) }
 
     controlpanel { name = "Behind Counter", position = vec3(1197.359, 2712.705, 38.62), rotation = vec3(0, 0, -180), passcode = "", virtual = false }
 
@@ -138,7 +138,7 @@ system { name = "Suburban - Hawick Ave", location = "Hawick Ave, Alta", position
     strobe { position = vec3(128.998, -212.445, 57.588), rotation = vec3(0, 0, 160), virtual = false }
 
 
-system { name = "Discount Store - Route 68", location = "Route 68, Zancudo River", position = vec3(-1096.562, 2707.275, 19.119) }
+system { name = "Discount Store - Route 68", location = "Route 68, Zancudo River", position = vec3(-1096.562, 2707.275, 19.119), ignoreproximity = true }
 
     controlpanel { name = "Back Room", position = vec3(-1102.69, 2716.811, 19.443), rotation = vec3(0, 0, -138.173), passcode = "", virtual = false }
 
@@ -158,7 +158,7 @@ system { name = "Discount Store - Route 68", location = "Route 68, Zancudo River
     strobe { position = vec3(-1104.327, 2711.312, 21.132), rotation = vec3(0, 0, -138.173), virtual = false }
 
 
-system { name = "Suburban - Great Ocean Hwy", location = "Great Ocean Hwy, Chumash", position = vec3(-3169.375, 1054.066, 20.863) }
+system { name = "Suburban - Great Ocean Hwy", location = "Great Ocean Hwy, Chumash", position = vec3(-3172.810, 1037.520, 21.320) }
 
     controlpanel { name = "Hallway", position = vec3(-3178.512, 1033.786, 21.244), rotation = vec3(0, 0, 66.259), passcode = "", virtual = false }
 

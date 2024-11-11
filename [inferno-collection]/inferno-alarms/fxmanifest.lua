@@ -26,3 +26,5 @@ fire_alarms "bahama_mamas.lua"
 fire_alarms "barbers.lua"
 fire_alarms "clothing_stores.lua"
 fire_alarms "food_stores.lua"
+
+dependency "inferno-fire-alarm-reborn"

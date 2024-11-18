@@ -1,8 +1,8 @@
 -- Inferno Collection Fire Alarm Reborn
 -- 
 -- Copyright (c) 2019-2024, Christopher M, Inferno Collection. All rights reserved.
-
--- Generated with the Inferno Fire Alarm Reborn Tool 11/06/2024 00:44:52 UTC
+--
+-- Generated with the Inferno Fire Alarm Reborn Tool 11/18/2024 06:25:03 UTC
 
 system { name = "Ammu-Nation - Popular St", location = "Popular Street, Cypress Flats", position = vec3(811.607, -2154.82, 29.619) }
 
@@ -70,6 +70,8 @@ system { name = "Ammu-Nation - Adam's Apple Blvd", location = "Adam's Apple Blvd
     hidden { position = vec3(11.088, -1105.157, 31.793), archetype = "v_serv_firealarm" }
     hidden { position = vec3(17.22, -1107.939, 31.793), archetype = "v_serv_firealarm" }
 
+    sprinklervalve { position = vec3(36.962, -1087.832, 29.791), rotation = vec3(0.003, 0.005, -119.412), virtual = false }
+
 
 system { name = "Ammu-Nation - Lindsay Circus", location = "Lindsay Circus, Little Seoul", position = vec3(-664.09, -939.775, 21.829) }
 
@@ -110,6 +112,8 @@ system { name = "Ammu-Nation - Palomino Fwy", location = "Palomino Fwy, Tataviam
     hidden { position = vec3(2569.603, 303.058, 110.775), archetype = "prop_alarm_01" }
     hidden { position = vec3(2572.138, 296.71, 110.65), archetype = "prop_v_15_cars_clock" }
 
+    sprinklervalve { position = vec3(2559.135, 287.103, 108.713), rotation = vec3(0, 0, 90), virtual = false }
+
 
 system { name = "Ammu-Nation - Morningwood Blvd", location = "Morningwood Blvd, Morningwood", position = vec3(-1311.023, -391.442, 36.696) }
 
@@ -129,6 +133,8 @@ system { name = "Ammu-Nation - Morningwood Blvd", location = "Morningwood Blvd, 
 
     hidden { position = vec3(-1313.858, -390.461, 38.736), archetype = "prop_alarm_01" }
     hidden { position = vec3(-1307.081, -389.563, 38.611), archetype = "prop_v_15_cars_clock" }
+
+    sprinklervalve { position = vec3(-1299.183, -391.549, 36.773), rotation = vec3(0.005, 0.003, -61.298), virtual = false }
 
 
 system { name = "Ammu-Nation - Spanish Ave", location = "Spanish Ave, Hawick", position = vec3(247.4, -46.727, 69.941) }
@@ -170,6 +176,8 @@ system { name = "Ammu-Nation - Route 68", location = "Route 68, Zancudo River", 
     hidden { position = vec3(-1113.237, 2690.86, 20.595), archetype = "prop_alarm_01" }
     hidden { position = vec3(-1119.36, 2693.9, 20.469), archetype = "prop_v_15_cars_clock" }
 
+    sprinklervalve { position = vec3(-1132.184, 2702.765, 18.905), rotation = vec3(0, 0, 132.357), virtual = false }
+
 
 system { name = "Ammu-Nation - Algonquin Blvd", location = "Algonquin Blvd, Sandy Shores", position = vec3(1696.05, 3755.114, 34.705) }
 
@@ -183,6 +191,8 @@ system { name = "Ammu-Nation - Algonquin Blvd", location = "Algonquin Blvd, Sand
 
     hidden { position = vec3(1698.839, 3752.665, 36.746), archetype = "prop_alarm_01" }
     hidden { position = vec3(1692.45, 3755.097, 36.62), archetype = "prop_v_15_cars_clock" }
+
+    sprinklervalve { position = vec3(1687.001, 3767.278, 35.125), rotation = vec3(0.001, 0, 46.724), virtual = false }
 
 
 system { name = "Ammn-Nation - Great Ocean Hwy", location = "Great Ocean Hwy, Paleto Bay", position = vec3(-326.97, 6078.606, 31.455) }
@@ -204,8 +214,10 @@ system { name = "Ammn-Nation - Great Ocean Hwy", location = "Great Ocean Hwy, Pa
     hidden { position = vec3(-325.402, 6076.4, 33.495), archetype = "prop_alarm_01" }
     hidden { position = vec3(-331.684, 6079.097, 33.37), archetype = "prop_v_15_cars_clock" }
 
+    sprinklervalve { position = vec3(-341.177, 6098.532, 31.559), rotation = vec3(-0.007, 0.003, 45.003), virtual = false }
 
-system { name = "Ammu-Nation - Barbareno Rd", location = "Barbareno Rd, Chumash", position = vec3(-3172.940, 1090.800, 20.840) }
+
+system { name = "Ammu-Nation - Barbareno Rd", location = "Barbareno Rd, Chumash", position = vec3(-3172.94, 1090.8, 20.84) }
 
     controlpanel { name = "Behind Counter", position = vec3(-3169.537, 1090.361, 20.809), rotation = vec3(0, 0, 156.581), passcode = "", virtual = false }
 
@@ -243,4 +255,6 @@ system { name = "Ammu-Nation - Olypic Fwy", location = "Olympic Fwy, La Mesa", p
 
     hidden { position = vec3(844.068, -1024.837, 30.235), archetype = "prop_alarm_01" }
     hidden { position = vec3(846.603, -1031.185, 30.11), archetype = "prop_v_15_cars_clock" }
+
+    sprinklervalve { position = vec3(857.517, -1031.368, 30.212), rotation = vec3(0, 0, -90), virtual = false }
 

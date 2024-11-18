@@ -1,8 +1,8 @@
 -- Inferno Collection Fire Alarm Reborn
 -- 
 -- Copyright (c) 2019-2024, Christopher M, Inferno Collection. All rights reserved.
-
--- Generated with the Inferno Fire Alarm Reborn Tool 11/06/2024 22:44:32 UTC
+--
+-- Generated with the Inferno Fire Alarm Reborn Tool 11/18/2024 06:26:11 UTC
 
 system { name = "Bahama Mamas", location = "Marathon Ave, Del Perro", position = vec3(-1396.177, -606.68, 30.32) }
 
@@ -46,4 +46,6 @@ system { name = "Bahama Mamas", location = "Marathon Ave, Del Perro", position =
     strobe { position = vec3(-1379.235, -632.006, 34.16), rotation = vec3(0, 0, 123), virtual = false }
 
     hidden { position = vec3(-1390.141, -593.099, 31.66), archetype = "v_serv_firealarm" }
+
+    sprinklervalve { position = vec3(-1397.531, -633.326, 29.043), rotation = vec3(0, 0, -147.007), virtual = false }
 

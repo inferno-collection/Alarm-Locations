@@ -2,7 +2,7 @@
 -- 
 -- Copyright (c) 2019-2024, Christopher M, Inferno Collection. All rights reserved.
 --
--- Generated with the Inferno Fire Alarm Reborn Tool 11/08/2024 23:19:18 UTC
+-- Generated with the Inferno Fire Alarm Reborn Tool 11/18/2024 06:11:53 UTC
 
 system { name = "Mission Row Police Station", location = "Altee St, Mission Row", position = vec3(455.82, -985.87, 30.69) }
 
@@ -77,4 +77,6 @@ system { name = "Mission Row Police Station", location = "Altee St, Mission Row"
     hidden { position = vec3(445.919, -992.474, 33.233), archetype = "v_med_smokealarm" }
     hidden { position = vec3(455.87, -986.494, 28.187), archetype = "v_serv_firealarm" }
     hidden { position = vec3(462.569, -987.486, 26.848), archetype = "v_serv_firealarm" }
+
+    sprinklervalve { position = vec3(459.359, -1010.631, 28.266), rotation = vec3(0, 0, 90), virtual = false }
 

@@ -1,8 +1,8 @@
 -- Inferno Collection Fire Alarm Reborn
 -- 
 -- Copyright (c) 2019-2024, Christopher M, Inferno Collection. All rights reserved.
-
--- Generated with the Inferno Fire Alarm Reborn Tool 11/06/2024 04:27:47 UTC
+--
+-- Generated with the Inferno Fire Alarm Reborn Tool 11/18/2024 06:35:01 UTC
 
 system { name = "Discount Store - Grapeseed Ave", location = "Grapeseed Main St, Grapeseed", position = vec3(1688.66, 4820.749, 42.075) }
 
@@ -23,8 +23,10 @@ system { name = "Discount Store - Grapeseed Ave", location = "Grapeseed Main St,
 
     strobe { position = vec3(1696.149, 4824.767, 44.151), rotation = vec3(0, 0, 97.54), virtual = false }
 
+    sprinklervalve { position = vec3(1689.827, 4830.806, 42.093), rotation = vec3(0.005, 0, 7.57), virtual = false }
 
-system { name = "Discount Store - Route 68", location = "Route 68, Grand Senora Desert", position = vec3(1202.530, 2714.300, 38.220) }
+
+system { name = "Discount Store - Route 68", location = "Route 68, Grand Senora Desert", position = vec3(1202.53, 2714.3, 38.22) }
 
     controlpanel { name = "Behind Counter", position = vec3(1197.359, 2712.705, 38.62), rotation = vec3(0, 0, -180), passcode = "", virtual = false }
 
@@ -41,6 +43,8 @@ system { name = "Discount Store - Route 68", location = "Route 68, Grand Senora 
     sprinkler { position = vec3(1195.646, 2709.335, 40.649), rotation = vec3(0, 0, 0), virtual = false }
 
     strobe { position = vec3(1195.075, 2712.705, 40.326), rotation = vec3(0, 0, -180), virtual = false }
+
+    sprinklervalve { position = vec3(1200.616, 2721.787, 38.23), rotation = vec3(0, 0, -0.002), virtual = false }
 
 
 system { name = "Discount Store - Innocence Blvd", location = "Innocence Blvd, Strawberry", position = vec3(80.261, -1391.804, 29.376) }
@@ -61,6 +65,8 @@ system { name = "Discount Store - Innocence Blvd", location = "Innocence Blvd, S
     sprinkler { position = vec3(76.445, -1394.277, 31.803), rotation = vec3(0, 0, 0), virtual = false }
 
     strobe { position = vec3(72.898, -1394.565, 31.443), rotation = vec3(0, 0, -90), virtual = false }
+
+    sprinklervalve { position = vec3(68.101, -1388.385, 29.513), rotation = vec3(0, 0, 90.257), virtual = false }
 
 
 system { name = "Discount Store - Sinner St", location = "Sinner St, Textile City", position = vec3(421.246, -808.218, 29.491) }
@@ -113,6 +119,8 @@ system { name = "Discount Store - Paleto Blvd", location = "Paleto Blvd, Paleto 
 
     strobe { position = vec3(7.69, 6511.711, 33.96), rotation = vec3(0, 0, 42.84), virtual = false }
 
+    sprinklervalve { position = vec3(7.363, 6504.561, 31.904), rotation = vec3(-0.002, -0.005, -137.159), virtual = false }
+
 
 system { name = "Suburban - Hawick Ave", location = "Hawick Ave, Alta", position = vec3(126.201, -214.097, 54.558) }
 
@@ -137,6 +145,8 @@ system { name = "Suburban - Hawick Ave", location = "Hawick Ave, Alta", position
 
     strobe { position = vec3(128.998, -212.445, 57.588), rotation = vec3(0, 0, 160), virtual = false }
 
+    sprinklervalve { position = vec3(114.199, -236.942, 53.596), rotation = vec3(0, 0, 160.103), virtual = false }
+
 
 system { name = "Discount Store - Route 68", location = "Route 68, Zancudo River", position = vec3(-1096.562, 2707.275, 19.119), ignoreproximity = true }
 
@@ -157,8 +167,10 @@ system { name = "Discount Store - Route 68", location = "Route 68, Zancudo River
 
     strobe { position = vec3(-1104.327, 2711.312, 21.132), rotation = vec3(0, 0, -138.173), virtual = false }
 
+    sprinklervalve { position = vec3(-1108.975, 2721.294, 18.923), rotation = vec3(-0.001, 0, 41.574), virtual = false }
 
-system { name = "Suburban - Great Ocean Hwy", location = "Great Ocean Hwy, Chumash", position = vec3(-3172.810, 1037.520, 21.320) }
+
+system { name = "Suburban - Great Ocean Hwy", location = "Great Ocean Hwy, Chumash", position = vec3(-3172.81, 1037.52, 21.32) }
 
     controlpanel { name = "Hallway", position = vec3(-3178.512, 1033.786, 21.244), rotation = vec3(0, 0, 66.259), passcode = "", virtual = false }
 
@@ -179,6 +191,8 @@ system { name = "Suburban - Great Ocean Hwy", location = "Great Ocean Hwy, Chuma
 
     strobe { position = vec3(-3166.667, 1054.866, 23.767), rotation = vec3(0, 0, 156.259), virtual = false }
 
+    sprinklervalve { position = vec3(-3182.646, 1032.775, 20.924), rotation = vec3(-0.002, 0.011, 156.906), virtual = false }
+
 
 system { name = "Discount Store - Palomino Ave", location = "Palomino Ave, Vespucci Canals", position = vec3(-818.957, -1077.067, 11.328) }
 
@@ -198,6 +212,8 @@ system { name = "Discount Store - Palomino Ave", location = "Palomino Ave, Vespu
     sprinkler { position = vec3(-822.964, -1075.107, 13.755), rotation = vec3(0, 0, 0), virtual = false }
 
     strobe { position = vec3(-825.528, -1072.015, 13.451), rotation = vec3(0, 0, 120), virtual = false }
+
+    sprinklervalve { position = vec3(-827.681, -1068.685, 11.776), rotation = vec3(-0.003, 0.001, 30.07), virtual = false }
 
 
 system { name = "Ponsonbys - Las Lagunas Blvd", location = "Las Lagunas Blvd, Burton", position = vec3(-159.013, -304.579, 39.733) }
@@ -221,6 +237,8 @@ system { name = "Ponsonbys - Las Lagunas Blvd", location = "Las Lagunas Blvd, Bu
 
     strobe { position = vec3(-155.017, -300.374, 42.923), rotation = vec3(0, 0, 161), virtual = false }
 
+    sprinklervalve { position = vec3(-152.517, -295.403, 39.863), rotation = vec3(-0.013, -0.002, -19.075), virtual = false }
+
 
 system { name = "Ponsonbys - Portola Dr", location = "Portola Dr, Rockford Hills", position = vec3(-713.958, -155.208, 37.415) }
 
@@ -241,6 +259,8 @@ system { name = "Ponsonbys - Portola Dr", location = "Portola Dr, Rockford Hills
     sprinkler { position = vec3(-717.858, -153.092, 41.141), rotation = vec3(0, 0.002, 0), virtual = false }
 
     strobe { position = vec3(-713.424, -160.953, 40.747), rotation = vec3(0, 0, 30), virtual = false }
+
+    sprinklervalve { position = vec3(-692.399, -154.588, 37.998), rotation = vec3(0.001, 0, 30.001), virtual = false }
 
 
 system { name = "Suburban - Route 68", location = "Route 68, Harmony", position = vec3(617.712, 2754.9, 42.088) }
@@ -264,4 +284,6 @@ system { name = "Suburban - Route 68", location = "Route 68, Harmony", position 
     sprinkler { position = vec3(620.319, 2764.766, 45.06), rotation = vec3(0, 0, 0), virtual = false }
 
     strobe { position = vec3(615.937, 2751.107, 45.125), rotation = vec3(0, 0, 4.061), virtual = false }
+
+    sprinklervalve { position = vec3(604.002, 2783.719, 42.39), rotation = vec3(-0.001, 0, 4.091), virtual = false }
 

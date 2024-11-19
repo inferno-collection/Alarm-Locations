@@ -1,8 +1,8 @@
 -- Inferno Collection Fire Alarm Reborn
 -- 
 -- Copyright (c) 2019-2024, Christopher M, Inferno Collection. All rights reserved.
-
--- Generated with the Inferno Fire Alarm Reborn Tool 11/06/2024 23:02:03 UTC
+--
+-- Generated with the Inferno Fire Alarm Reborn Tool 11/19/2024 09:52:24 UTC
 
 system { name = "Tequi-la-la", location = "Milton Rd, West Vinewood", position = vec3(-556.031, 284.407, 82.176) }
 
@@ -57,4 +57,6 @@ system { name = "Tequi-la-la", location = "Milton Rd, West Vinewood", position =
     hidden { position = vec3(-556.428, 280.123, 85.951), archetype = "prop_alarm_01" }
     hidden { position = vec3(-555.503, 290.688, 85.951), archetype = "prop_alarm_01" }
     hidden { position = vec3(-568.359, 290.405, 87.084), archetype = "prop_alarm_01" }
+
+    sprinklervalve { position = vec3(-554.181, 293.19, 85.184), rotation = vec3(0, 0, -4.761), virtual = false }
 

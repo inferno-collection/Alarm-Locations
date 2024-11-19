@@ -148,7 +148,7 @@ system { name = "Suburban - Hawick Ave", location = "Hawick Ave, Alta", position
     sprinklervalve { position = vec3(114.199, -236.942, 53.596), rotation = vec3(0, 0, 160.103), virtual = false }
 
 
-system { name = "Discount Store - Route 68", location = "Route 68, Zancudo River", position = vec3(-1096.562, 2707.275, 19.119) }
+system { name = "Discount Store - Route 68", location = "Route 68, Zancudo River", position = vec3(-1096.562, 2707.275, 19.119), ignoreproximity = true }
 
     controlpanel { name = "Back Room", position = vec3(-1102.69, 2716.811, 19.443), rotation = vec3(0, 0, -138.173), passcode = "", virtual = false }
 

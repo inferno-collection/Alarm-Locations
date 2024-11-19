@@ -1,8 +1,8 @@
 -- Inferno Collection Fire Alarm Reborn
 -- 
 -- Copyright (c) 2019-2024, Christopher M, Inferno Collection. All rights reserved.
-
--- Generated with the Inferno Fire Alarm Reborn Tool 11/06/2024 03:09:26 UTC
+--
+-- Generated with the Inferno Fire Alarm Reborn Tool 11/19/2024 09:54:07 UTC
 
 system { name = "Vanilla Unicorn", location = "Strawberry Ave, Strawberry", position = vec3(119.3, -1286.65, 28.27) }
 
@@ -45,4 +45,6 @@ system { name = "Vanilla Unicorn", location = "Strawberry Ave, Strawberry", posi
     strobe { position = vec3(121.855, -1283.142, 31.442), rotation = vec3(0, 0, -150), virtual = false }
     strobe { position = vec3(113.736, -1293.015, 31.124), rotation = vec3(0.005, -0.008, 120.021), virtual = false }
     strobe { position = vec3(125.41, -1297.053, 31.41), rotation = vec3(0, 0, -60), virtual = false }
+
+    sprinklervalve { position = vec3(104.416, -1281.258, 29.199), rotation = vec3(0.009, -0.001, 10.998), virtual = false }
 

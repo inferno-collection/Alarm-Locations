@@ -1,8 +1,8 @@
 -- Inferno Collection Fire Alarm Reborn
 -- 
 -- Copyright (c) 2019-2024, Christopher M, Inferno Collection. All rights reserved.
-
--- Generated with the Inferno Fire Alarm Reborn Tool 11/06/2024 23:24:16 UTC
+--
+-- Generated with the Inferno Fire Alarm Reborn Tool 11/19/2024 09:50:12 UTC
 
 system { name = "Los Santos Customs - Carcer Way", location = "Carcer Way, Burton", position = vec3(-348.712, -137.433, 39.01) }
 
@@ -37,6 +37,8 @@ system { name = "Los Santos Customs - Carcer Way", location = "Carcer Way, Burto
 
     strobe { position = vec3(-348.243, -134.787, 40.769), rotation = vec3(0, 0, -110), virtual = false }
     strobe { position = vec3(-320.886, -138.732, 40.908), rotation = vec3(0, 0, 70), virtual = false }
+
+    sprinklervalve { position = vec3(-361, -161.252, 37.969), rotation = vec3(0, 0, 119.484), virtual = false }
 
 
 system { name = "Los Santos Customs - LSIA", location = "Greenwhich Pkwy, LSIA", position = vec3(-1148.934, -1995.323, 13.18) }
@@ -73,4 +75,6 @@ system { name = "Los Santos Customs - LSIA", location = "Greenwhich Pkwy, LSIA",
 
     strobe { position = vec3(-1149.215, -1998.263, 14.927), rotation = vec3(0, 0, 135), virtual = false }
     strobe { position = vec3(-1163.571, -2022.171, 15.109), rotation = vec3(0, 0, -45), virtual = false }
+
+    sprinklervalve { position = vec3(-1168.707, -2017.479, 13.073), rotation = vec3(0, 0.001, 135.005), virtual = false }
 

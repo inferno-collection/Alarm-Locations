@@ -8,7 +8,7 @@ description "Stock list of fire alarm systems ready to use."
 
 author "Inferno Collection (inferno-collection.com)"
 
-version "1.4"
+version "1.5"
 
 url "https://inferno-collection.com"
 

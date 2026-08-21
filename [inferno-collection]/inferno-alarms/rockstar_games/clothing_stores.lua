@@ -6,7 +6,7 @@
 
 system { name = "Discount Store - Grapeseed Ave", location = "Grapeseed Main St, Grapeseed", position = vec3(1688.66, 4820.749, 42.075) }
 
-    controlpanel { name = "Back Room", position = vec3(1699.761, 4820.384, 42.433), rotation = vec3(0, 0, 97.54), passcode = "", virtual = false }
+    controlpanel { name = "Back Room", position = vec3(1699.761, 4820.384, 42.433), rotation = vec3(0, 0, 97.54), virtual = false }
 
     pullstation { name = "Behind Counter", position = vec3(1696.15, 4824.757, 42.291), rotation = vec3(0, 0, 97.54), virtual = false }
 
@@ -28,7 +28,7 @@ system { name = "Discount Store - Grapeseed Ave", location = "Grapeseed Main St,
 
 system { name = "Discount Store - Route 68", location = "Route 68, Grand Senora Desert", position = vec3(1202.53, 2714.3, 38.22) }
 
-    controlpanel { name = "Behind Counter", position = vec3(1197.359, 2712.705, 38.62), rotation = vec3(0, 0, -180), passcode = "", virtual = false }
+    controlpanel { name = "Behind Counter", position = vec3(1197.359, 2712.705, 38.62), rotation = vec3(0, 0, -180), virtual = false }
 
     pullstation { name = "Behind Counter", position = vec3(1195.094, 2712.705, 38.431), rotation = vec3(0, 0, -180), virtual = false }
 
@@ -49,7 +49,7 @@ system { name = "Discount Store - Route 68", location = "Route 68, Grand Senora 
 
 system { name = "Discount Store - Innocence Blvd", location = "Innocence Blvd, Strawberry", position = vec3(80.261, -1391.804, 29.376) }
 
-    controlpanel { name = "Back Room", position = vec3(69.892, -1389.732, 29.712), rotation = vec3(0, 0, -90), passcode = "", virtual = false }
+    controlpanel { name = "Back Room", position = vec3(69.892, -1389.732, 29.712), rotation = vec3(0, 0, -90), virtual = false }
 
     pullstation { name = "Behind Counter", position = vec3(72.898, -1394.512, 29.624), rotation = vec3(0, 0, -90), virtual = false }
 
@@ -71,7 +71,7 @@ system { name = "Discount Store - Innocence Blvd", location = "Innocence Blvd, S
 
 system { name = "Discount Store - Sinner St", location = "Sinner St, Textile City", position = vec3(421.246, -808.218, 29.491) }
 
-    controlpanel { name = "Back Room", position = vec3(431.061, -809.449, 29.813), rotation = vec3(0, 0, 90), passcode = "", virtual = false }
+    controlpanel { name = "Back Room", position = vec3(431.061, -809.449, 29.813), rotation = vec3(0, 0, 90), virtual = false }
 
     pullstation { name = "Behind Counter", position = vec3(428.055, -804.656, 29.816), rotation = vec3(0, 0, 90), virtual = false }
 
@@ -91,7 +91,7 @@ system { name = "Discount Store - Sinner St", location = "Sinner St, Textile Cit
 
 system { name = "Suburban - N Rockford Dr", location = "North Rockford Dr, Del Perro", position = vec3(-1196.741, -774.331, 17.324) }
 
-    controlpanel { name = "Behind Counter", position = vec3(-1191.434, -764.471, 17.567), rotation = vec3(-0.002, 0.003, 126.63), passcode = "", virtual = false }
+    controlpanel { name = "Behind Counter", position = vec3(-1191.434, -764.471, 17.567), rotation = vec3(-0.002, 0.003, 126.63), virtual = false }
 
     pullstation { name = "Hallway", position = vec3(-1185.288, -765.526, 17.754), rotation = vec3(-0.002, 0.003, 126.63), virtual = false }
 
@@ -102,7 +102,7 @@ system { name = "Suburban - N Rockford Dr", location = "North Rockford Dr, Del P
 
 system { name = "Discount Store - Paleto Blvd", location = "Paleto Blvd, Paleto Bay", position = vec3(0.387, 6515.067, 31.878) }
 
-    controlpanel { name = "Back Room", position = vec3(6.198, 6506.228, 32.235), rotation = vec3(0, 0, 42.84), passcode = "", virtual = false }
+    controlpanel { name = "Back Room", position = vec3(6.198, 6506.228, 32.235), rotation = vec3(0, 0, 42.84), virtual = false }
 
     pullstation { name = "Behind Counter", position = vec3(7.686, 6511.708, 32.153), rotation = vec3(0, 0, 42.84), virtual = false }
 
@@ -124,7 +124,7 @@ system { name = "Discount Store - Paleto Blvd", location = "Paleto Blvd, Paleto 
 
 system { name = "Suburban - Hawick Ave", location = "Hawick Ave, Alta", position = vec3(126.201, -214.097, 54.558) }
 
-    controlpanel { name = "Hallway", position = vec3(118.507, -234.215, 55.005), rotation = vec3(0, 0, 70), passcode = "", virtual = false }
+    controlpanel { name = "Hallway", position = vec3(118.507, -234.215, 55.005), rotation = vec3(0, 0, 70), virtual = false }
 
     pullstation { name = "Hallway", position = vec3(120.597, -230.182, 54.956), rotation = vec3(0, 0, -20), virtual = false }
 
@@ -150,7 +150,7 @@ system { name = "Suburban - Hawick Ave", location = "Hawick Ave, Alta", position
 
 system { name = "Discount Store - Route 68", location = "Route 68, Zancudo River", position = vec3(-1096.562, 2707.275, 19.119), ignoreproximity = true }
 
-    controlpanel { name = "Back Room", position = vec3(-1102.69, 2716.811, 19.443), rotation = vec3(0, 0, -138.173), passcode = "", virtual = false }
+    controlpanel { name = "Back Room", position = vec3(-1102.69, 2716.811, 19.443), rotation = vec3(0, 0, -138.173), virtual = false }
 
     pullstation { name = "Behind Counter", position = vec3(-1104.259, 2711.373, 19.37), rotation = vec3(0, 0, -138.173), virtual = false }
 
@@ -172,7 +172,7 @@ system { name = "Discount Store - Route 68", location = "Route 68, Zancudo River
 
 system { name = "Suburban - Great Ocean Hwy", location = "Great Ocean Hwy, Chumash", position = vec3(-3172.81, 1037.52, 21.32) }
 
-    controlpanel { name = "Hallway", position = vec3(-3178.512, 1033.786, 21.244), rotation = vec3(0, 0, 66.259), passcode = "", virtual = false }
+    controlpanel { name = "Hallway", position = vec3(-3178.512, 1033.786, 21.244), rotation = vec3(0, 0, 66.259), virtual = false }
 
     pullstation { name = "Hallway", position = vec3(-3176.194, 1037.708, 21.253), rotation = vec3(0, 0, -23.741), virtual = false }
 
@@ -196,7 +196,7 @@ system { name = "Suburban - Great Ocean Hwy", location = "Great Ocean Hwy, Chuma
 
 system { name = "Discount Store - Palomino Ave", location = "Palomino Ave, Vespucci Canals", position = vec3(-818.957, -1077.067, 11.328) }
 
-    controlpanel { name = "Back Room", position = vec3(-822.395, -1067.219, 11.679), rotation = vec3(0, 0, -150), passcode = "", virtual = false }
+    controlpanel { name = "Back Room", position = vec3(-822.395, -1067.219, 11.679), rotation = vec3(0, 0, -150), virtual = false }
 
     pullstation { name = "Behind Counter", position = vec3(-825.032, -1072.213, 11.66), rotation = vec3(0, 0, -150), virtual = false }
 
@@ -218,7 +218,7 @@ system { name = "Discount Store - Palomino Ave", location = "Palomino Ave, Vespu
 
 system { name = "Ponsonbys - Las Lagunas Blvd", location = "Las Lagunas Blvd, Burton", position = vec3(-159.013, -304.579, 39.733) }
 
-    controlpanel { name = "Back Room", position = vec3(-167.664, -302.025, 40.104), rotation = vec3(0, 0, -18.979), passcode = "", virtual = false }
+    controlpanel { name = "Back Room", position = vec3(-167.664, -302.025, 40.104), rotation = vec3(0, 0, -18.979), virtual = false }
 
     pullstation { name = "Hallway", position = vec3(-164.503, -297.284, 40.002), rotation = vec3(0, 0, -109), virtual = false }
 
@@ -242,7 +242,7 @@ system { name = "Ponsonbys - Las Lagunas Blvd", location = "Las Lagunas Blvd, Bu
 
 system { name = "Ponsonbys - Portola Dr", location = "Portola Dr, Rockford Hills", position = vec3(-713.958, -155.208, 37.415) }
 
-    controlpanel { name = "Back Room", position = vec3(-706.487, -150.392, 37.808), rotation = vec3(0, 0, -149.979), passcode = "", virtual = false }
+    controlpanel { name = "Back Room", position = vec3(-706.487, -150.392, 37.808), rotation = vec3(0, 0, -149.979), virtual = false }
 
     pullstation { name = "Hallway", position = vec3(-704.939, -155.845, 37.664), rotation = vec3(0, 0, 120), virtual = false }
 
@@ -265,7 +265,7 @@ system { name = "Ponsonbys - Portola Dr", location = "Portola Dr, Rockford Hills
 
 system { name = "Suburban - Route 68", location = "Route 68, Harmony", position = vec3(617.712, 2754.9, 42.088) }
 
-    controlpanel { name = "Hallway", position = vec3(616.623, 2775.256, 42.496), rotation = vec3(0, 0, -85.939), passcode = "", virtual = false }
+    controlpanel { name = "Hallway", position = vec3(616.623, 2775.256, 42.496), rotation = vec3(0, 0, -85.939), virtual = false }
 
     pullstation { name = "Hallway", position = vec3(616.391, 2770.729, 42.475), rotation = vec3(0, 0, -175.939), virtual = false }
 

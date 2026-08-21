@@ -6,7 +6,7 @@
 
 system { name = "Barber - Carson Ave", location = "Carson Ave, Davis", position = vec3(134.78, -1709.438, 29.292) }
 
-    controlpanel { name = "Back Corner", position = vec3(137.303, -1703.85, 29.681), rotation = vec3(0, 0, -130), passcode = "", virtual = false }
+    controlpanel { name = "Back Corner", position = vec3(137.303, -1703.85, 29.681), rotation = vec3(0, 0, -130), virtual = false }
 
     pullstation { name = "Back Corner", position = vec3(137.73, -1703.341, 29.664), rotation = vec3(0, 0, -130), virtual = false }
 
@@ -17,7 +17,7 @@ system { name = "Barber - Carson Ave", location = "Carson Ave, Davis", position 
 
 system { name = "Barber - Alhambra Dr", location = "Alhambra Dr, Sandy Shores", position = vec3(1932.741, 3727.277, 32.844) }
 
-    controlpanel { name = "Back Corner", position = vec3(1927.863, 3732.046, 33.222), rotation = vec3(0, 0, -59.979), passcode = "", virtual = false }
+    controlpanel { name = "Back Corner", position = vec3(1927.863, 3732.046, 33.222), rotation = vec3(0, 0, -59.979), virtual = false }
 
     pullstation { name = "Back Corner", position = vec3(1927.515, 3732.649, 33.198), rotation = vec3(0, 0, -59.979), virtual = false }
 

@@ -6,7 +6,7 @@
 
 system { name = "Vangelico", location = "Rockford Dr, Rockford Hills", position = vec3(-629.444, -236.183, 38.057) }
 
-    controlpanel { name = "Office", position = vec3(-628.704, -227.773, 38.585), rotation = vec3(0, 0, 126), passcode = "", virtual = false }
+    controlpanel { name = "Office", position = vec3(-628.704, -227.773, 38.585), rotation = vec3(0, 0, 126), virtual = false }
 
     pullstation { name = "Store Floor", position = vec3(-627.241, -240.153, 38.346), rotation = vec3(0, 0, 36.032), virtual = false }
     pullstation { name = "Office", position = vec3(-628.311, -228.314, 38.551), rotation = vec3(0, 0, 126), virtual = false }

@@ -6,7 +6,7 @@
 
 system { name = "Los Santos Customs - Carcer Way", location = "Carcer Way, Burton", position = vec3(-348.712, -137.433, 39.01) }
 
-    controlpanel { name = "Entryway", position = vec3(-349.382, -134.646, 39.387), rotation = vec3(0, 0, 160), passcode = "", virtual = false }
+    controlpanel { name = "Entryway", position = vec3(-349.382, -134.646, 39.387), rotation = vec3(0, 0, 160), virtual = false }
 
     pullstation { name = "Entryway", position = vec3(-348.409, -139.902, 39.82), rotation = vec3(0, 0, -20), virtual = false }
     pullstation { name = "Rear Door", position = vec3(-320.402, -137.4, 39.528), rotation = vec3(0, 0, 70), virtual = false }
@@ -43,7 +43,7 @@ system { name = "Los Santos Customs - Carcer Way", location = "Carcer Way, Burto
 
 system { name = "Los Santos Customs - LSIA", location = "Greenwhich Pkwy, LSIA", position = vec3(-1148.934, -1995.323, 13.18) }
 
-    controlpanel { name = "Entryway", position = vec3(-1148.617, -1997.274, 13.607), rotation = vec3(0, 0, 45), passcode = "", virtual = false }
+    controlpanel { name = "Entryway", position = vec3(-1148.617, -1997.274, 13.607), rotation = vec3(0, 0, 45), virtual = false }
 
     pullstation { name = "Entryway", position = vec3(-1153.838, -1995.982, 14.015), rotation = vec3(0, 0, -135), virtual = false }
     pullstation { name = "Rear Door", position = vec3(-1163.36, -2022.381, 13.751), rotation = vec3(0, 0, -45), virtual = false }

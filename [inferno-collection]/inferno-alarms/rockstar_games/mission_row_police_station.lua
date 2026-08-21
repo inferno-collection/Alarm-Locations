@@ -6,7 +6,7 @@
 
 system { name = "Mission Row Police Station", location = "Altee St, Mission Row", position = vec3(455.82, -985.87, 30.69) }
 
-    controlpanel { name = "Outside Offices", position = vec3(454.22, -988.776, 27.174), rotation = vec3(0, 0, -0.002), passcode = "", virtual = false }
+    controlpanel { name = "Outside Offices", position = vec3(454.22, -988.776, 27.174), rotation = vec3(0, 0, -0.002), virtual = false }
 
     pullstation { name = "Reception", position = vec3(448.979, -981.184, 30.831), rotation = vec3(0, 0, -180), virtual = false }
     pullstation { name = "Armory", position = vec3(453.268, -983.638, 30.959), rotation = vec3(0, 0, -90), virtual = false }

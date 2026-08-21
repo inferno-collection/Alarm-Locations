@@ -4,7 +4,7 @@
 --
 -- Generated with the Inferno Fire Alarm Reborn Tool 06/08/2026 00:11:28 UTC
 
-system { name = "Ocean Medical Center", location = "Pacific Bluffs", passcode = "1234" }
+system { name = "Ocean Medical Center", location = "Pacific Bluffs" }
 
     controlpanel { name = "Floor 1 Reception", position = vec3(-1849.822, -335.094, 50.031), rotation = vec3(0, 0, 139.471), virtual = false }
 

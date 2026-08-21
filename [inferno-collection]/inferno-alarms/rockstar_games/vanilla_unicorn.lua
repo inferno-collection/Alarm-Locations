@@ -6,7 +6,7 @@
 
 system { name = "Vanilla Unicorn", location = "Strawberry Ave, Strawberry", position = vec3(119.3, -1286.65, 28.27) }
 
-    controlpanel { name = "Back Office", position = vec3(92.467, -1293.352, 29.563), rotation = vec3(0, 0, -60), passcode = "", virtual = false }
+    controlpanel { name = "Back Office", position = vec3(92.467, -1293.352, 29.563), rotation = vec3(0, 0, -60), virtual = false }
 
     pullstation { name = "Behind Bar", position = vec3(131.407, -1287.938, 29.43), rotation = vec3(0, 0, -60), virtual = false }
     pullstation { name = "Stage Floor", position = vec3(114.222, -1292.237, 28.663), rotation = vec3(0, 0, 30), virtual = false }

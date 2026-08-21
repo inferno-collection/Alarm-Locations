@@ -6,7 +6,7 @@
 
 system { name = "LTD Gasoline - West Mirror Drive", location = "West Mirror Drive, Mirror Park", position = vec3(1159.356, -325.028, 69.205) }
 
-    controlpanel { name = "Back Room", position = vec3(1161.976, -313.288, 69.612), rotation = vec3(0, 0, 100), passcode = "", virtual = false }
+    controlpanel { name = "Back Room", position = vec3(1161.976, -313.288, 69.612), rotation = vec3(0, 0, 100), virtual = false }
 
     pullstation { name = "Front Door", position = vec3(1157.956, -326.682, 69.636), rotation = vec3(-0.001, 0, 9.998), virtual = true }
 
@@ -26,7 +26,7 @@ system { name = "LTD Gasoline - West Mirror Drive", location = "West Mirror Driv
 
 system { name = "Scoops Liquor Barn - Route 68", location = "Route 68, Grand Senora Desert", position = vec3(1163.14, 2715.13, 39.13) }
 
-    controlpanel { name = "Hallway", position = vec3(1168.321, 2712.517, 38.605), rotation = vec3(0, 0, -90), passcode = "", virtual = false }
+    controlpanel { name = "Hallway", position = vec3(1168.321, 2712.517, 38.605), rotation = vec3(0, 0, -90), virtual = false }
 
     pullstation { name = "Behind Counter", position = vec3(1167.352, 2712.043, 38.452), rotation = vec3(0, 0, 90), virtual = false }
 
@@ -43,7 +43,7 @@ system { name = "Scoops Liquor Barn - Route 68", location = "Route 68, Grand Sen
 
 system { name = "24/7 - Route 68", location = "Route 68, Harmony", position = vec3(544.494, 2670.521, 42.156) }
 
-    controlpanel { name = "Back Room", position = vec3(544.782, 2665.16, 42.658), rotation = vec3(0, 0, -172.5), passcode = "", virtual = false }
+    controlpanel { name = "Back Room", position = vec3(544.782, 2665.16, 42.658), rotation = vec3(0, 0, -172.5), virtual = false }
 
     pullstation { name = "Back Room", position = vec3(548.36, 2665.631, 42.661), rotation = vec3(0, 0, -172.5), virtual = false }
 
@@ -62,7 +62,7 @@ system { name = "24/7 - Route 68", location = "Route 68, Harmony", position = ve
 
 system { name = "Ace Liquor - Algonquin Blvd", location = "Algonquin Blvd, Sandy Shores", position = vec3(1393.447, 3601.8, 34.981) }
 
-    controlpanel { name = "Back Room", position = vec3(1392.367, 3610.732, 35.427), rotation = vec3(0, 0, -70), passcode = "", virtual = false }
+    controlpanel { name = "Back Room", position = vec3(1392.367, 3610.732, 35.427), rotation = vec3(0, 0, -70), virtual = false }
 
     pullstation { name = "Store Floor", position = vec3(1387.643, 3604.483, 35.271), rotation = vec3(0, 0, -70), virtual = false }
 
@@ -79,7 +79,7 @@ system { name = "Ace Liquor - Algonquin Blvd", location = "Algonquin Blvd, Sandy
 
 system { name = "Rob's Liquor - San Andreas Ave", location = "San Andreas Ave, Vespucci Canals", position = vec3(-1225.45, -904.307, 12.326) }
 
-    controlpanel { name = "Hallway", position = vec3(-1223.027, -911.027, 12.747), rotation = vec3(0, 0, 123.858), passcode = "", virtual = false }
+    controlpanel { name = "Hallway", position = vec3(-1223.027, -911.027, 12.747), rotation = vec3(0, 0, 123.858), virtual = false }
 
     pullstation { name = "Behind Counter", position = vec3(-1222.471, -910.115, 12.55), rotation = vec3(0, 0, -56.142), virtual = false }
 
@@ -94,7 +94,7 @@ system { name = "Rob's Liquor - San Andreas Ave", location = "San Andreas Ave, V
 
 system { name = "24/7 - Ineseno Rd", location = "Ineseno Rd, Banham Canyon", position = vec3(-3040.313, 588.769, 7.909) }
 
-    controlpanel { name = "Back Room", position = vec3(-3045.881, 587.865, 8.489), rotation = vec3(0, 0, 107.759), passcode = "", virtual = false }
+    controlpanel { name = "Back Room", position = vec3(-3045.881, 587.865, 8.489), rotation = vec3(0, 0, 107.759), virtual = false }
 
     pullstation { name = "Back Room", position = vec3(-3044.709, 584.205, 8.427), rotation = vec3(0, 0, 107.759), virtual = false }
 
@@ -113,7 +113,7 @@ system { name = "24/7 - Ineseno Rd", location = "Ineseno Rd, Banham Canyon", pos
 
 system { name = "LTD Gasoline - Grapseed Main St", location = "Grapeseed Main St, Grapeseed", position = vec3(1700.581, 4928.179, 42.064) }
 
-    controlpanel { name = "Back Room", position = vec3(1706.489, 4918.287, 42.495), rotation = vec3(0, 0, -35), passcode = "", virtual = false }
+    controlpanel { name = "Back Room", position = vec3(1706.489, 4918.287, 42.495), rotation = vec3(0, 0, -35), virtual = false }
 
     pullstation { name = "Front Door", position = vec3(1700.034, 4930.476, 42.49), rotation = vec3(0, 0, -125), virtual = true }
 
@@ -132,7 +132,7 @@ system { name = "LTD Gasoline - Grapseed Main St", location = "Grapeseed Main St
 
 system { name = "LTD Gasoline - Davis Ave", location = "Davis Ave, Davis", position = vec3(-51.571, -1755.283, 29.421) }
 
-    controlpanel { name = "Back Room", position = vec3(-41.395, -1749.935, 29.814), rotation = vec3(0, 0, 49.986), passcode = "", virtual = false }
+    controlpanel { name = "Back Room", position = vec3(-41.395, -1749.935, 29.814), rotation = vec3(0, 0, 49.986), virtual = false }
 
     pullstation { name = "Front Door", position = vec3(-54.124, -1755.326, 29.846), rotation = vec3(0, 0, -40.868), virtual = true }
 
@@ -151,7 +151,7 @@ system { name = "LTD Gasoline - Davis Ave", location = "Davis Ave, Davis", posit
 
 system { name = "24/7 - Barbareno Rd", location = "Barbareno Rd, Chumash", position = vec3(-3241.884, 1004.595, 12.831) }
 
-    controlpanel { name = "Back Room", position = vec3(-3247.357, 1005.758, 13.339), rotation = vec3(0, 0, 85.074), passcode = "", virtual = false }
+    controlpanel { name = "Back Room", position = vec3(-3247.357, 1005.758, 13.339), rotation = vec3(0, 0, 85.074), virtual = false }
 
     pullstation { name = "Back Room", position = vec3(-3247.689, 1001.903, 13.336), rotation = vec3(0, 0, 85.074), virtual = false }
 
@@ -169,7 +169,7 @@ system { name = "24/7 - Barbareno Rd", location = "Barbareno Rd, Chumash", posit
 
 system { name = "24/7 - Senora Fwy", location = "Senora Fwy, Grand Senora Desert", position = vec3(2679.776, 3283.684, 55.241) }
 
-    controlpanel { name = "Back Room", position = vec3(2675.734, 3286.708, 55.758), rotation = vec3(0, 0, 60.87), passcode = "", virtual = false }
+    controlpanel { name = "Back Room", position = vec3(2675.734, 3286.708, 55.758), rotation = vec3(0, 0, 60.87), virtual = false }
 
     pullstation { name = "Back Room", position = vec3(2673.879, 3283.379, 55.752), rotation = vec3(0, 0, 60.87), virtual = false }
 
@@ -187,7 +187,7 @@ system { name = "24/7 - Senora Fwy", location = "Senora Fwy, Grand Senora Desert
 
 system { name = "24/7 - Alhambra Dr", location = "Alhambra Dr, Sandy Shores", position = vec3(1964.144, 3742.657, 32.344) }
 
-    controlpanel { name = "Back Room", position = vec3(1961.841, 3747.451, 32.924), rotation = vec3(0, 0, 30), passcode = "", virtual = false }
+    controlpanel { name = "Back Room", position = vec3(1961.841, 3747.451, 32.924), rotation = vec3(0, 0, 30), virtual = false }
 
     pullstation { name = "Back Room", position = vec3(1958.547, 3745.549, 32.851), rotation = vec3(0, 0, 30), virtual = false }
 
@@ -202,7 +202,7 @@ system { name = "24/7 - Alhambra Dr", location = "Alhambra Dr, Sandy Shores", po
 
 system { name = "Rob's Liquor - Prosperity St", location = "Prosperity St, Morningwood", position = vec3(-1489.512, -382.331, 40.163) }
 
-    controlpanel { name = "Hallway", position = vec3(-1483.376, -378.513, 40.595), rotation = vec3(0, 0, -135.074), passcode = "", virtual = false }
+    controlpanel { name = "Hallway", position = vec3(-1483.376, -378.513, 40.595), rotation = vec3(0, 0, -135.074), virtual = false }
 
     pullstation { name = "Behind Counter", position = vec3(-1484.384, -378.149, 40.421), rotation = vec3(0, 0, 44.926), virtual = false }
 
@@ -217,7 +217,7 @@ system { name = "Rob's Liquor - Prosperity St", location = "Prosperity St, Morni
 
 system { name = "24/7 - Clinton Ave", location = "Clinton Ave, Downtown Vinewood", position = vec3(376.896, 325.168, 103.566) }
 
-    controlpanel { name = "Back Room", position = vec3(378.932, 330.558, 104.132), rotation = vec3(0, 0, -14.115), passcode = "", virtual = false }
+    controlpanel { name = "Back Room", position = vec3(378.932, 330.558, 104.132), rotation = vec3(0, 0, -14.115), virtual = false }
 
     pullstation { name = "Back Room", position = vec3(375.314, 331.468, 104.064), rotation = vec3(0, 0, -14.115), virtual = false }
 
@@ -236,7 +236,7 @@ system { name = "24/7 - Clinton Ave", location = "Clinton Ave, Downtown Vinewood
 
 system { name = "24/7 - Palomino Fwy", location = "Palomino Fwy, Tataviam Mountains", position = vec3(2556.917, 385.888, 108.623) }
 
-    controlpanel { name = "Back Room", position = vec3(2551.854, 386.218, 109.224), rotation = vec3(0, 0, 87.716), passcode = "", virtual = false }
+    controlpanel { name = "Back Room", position = vec3(2551.854, 386.218, 109.224), rotation = vec3(0, 0, 87.716), virtual = false }
 
     pullstation { name = "Back Room", position = vec3(2551.705, 382.473, 109.116), rotation = vec3(0, 0, 87.716), virtual = false }
 
@@ -255,7 +255,7 @@ system { name = "24/7 - Palomino Fwy", location = "Palomino Fwy, Tataviam Mounta
 
 system { name = "24/7 - Innocence Blvd", location = "Innocence Blvd, Strawberry", position = vec3(29.249, -1347.345, 29.497) }
 
-    controlpanel { name = "Back Room", position = vec3(29.649, -1341.743, 29.989), rotation = vec3(0, 0, -0.002), passcode = "", virtual = false }
+    controlpanel { name = "Back Room", position = vec3(29.649, -1341.743, 29.989), rotation = vec3(0, 0, -0.002), virtual = false }
 
     pullstation { name = "Back Room", position = vec3(25.915, -1341.743, 29.994), rotation = vec3(0, 0, -0.002), virtual = false }
 

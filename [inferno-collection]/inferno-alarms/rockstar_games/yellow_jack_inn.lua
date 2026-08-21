@@ -4,7 +4,7 @@
 --
 -- Generated with the Inferno Fire Alarm Reborn Tool 06/08/2026 04:35:12 UTC
 
-system { name = "Yellowjack Inn", location = "Panorama Drive x Route 68", passcode = "1234" }
+system { name = "Yellowjack Inn", location = "Panorama Drive x Route 68" }
 
     controlpanel { name = "Lobby", position = vec3(1988.26, 3052.296, 47.566), rotation = vec3(0.002, 0.001, -32.216), virtual = false }
 

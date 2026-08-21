@@ -6,7 +6,7 @@
 
 system { name = "Tequi-la-la", location = "Milton Rd, West Vinewood", position = vec3(-556.031, 284.407, 82.176) }
 
-    controlpanel { name = "Coatroom", position = vec3(-567.072, 279.209, 83.488), rotation = vec3(0, 0, -5.071), passcode = "", virtual = false }
+    controlpanel { name = "Coatroom", position = vec3(-567.072, 279.209, 83.488), rotation = vec3(0, 0, -5.071), virtual = false }
 
     pullstation { name = "Behind Counter - Bar 1", position = vec3(-563.075, 284.144, 82.472), rotation = vec3(0, 0, -5.017), virtual = false }
     pullstation { name = "Behind Counter - Bar 2", position = vec3(-565.085, 288.081, 85.694), rotation = vec3(0, 0, 175), virtual = false }

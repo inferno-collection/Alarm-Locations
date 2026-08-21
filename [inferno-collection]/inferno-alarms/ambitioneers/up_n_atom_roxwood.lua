@@ -4,7 +4,7 @@
 --
 -- Generated with the Inferno Fire Alarm Reborn Tool 06/06/2026 20:35:48 UTC
 
-system { name = "Up n Atom", location = "Roxwood", passcode = "1234" }
+system { name = "Up n Atom", location = "Roxwood" }
 
     controlpanel { name = "Break Room", position = vec3(-1301.846, 6970.363, 20.964), rotation = vec3(0, 0, -12.94), virtual = false }
 

@@ -6,7 +6,7 @@
 
 system { name = "Bahama Mamas", location = "Marathon Ave, Del Perro", position = vec3(-1396.177, -606.68, 30.32) }
 
-    controlpanel { name = "Entry Way", position = vec3(-1390.728, -593.107, 30.808), rotation = vec3(0, 0, -57), passcode = "", virtual = false }
+    controlpanel { name = "Entry Way", position = vec3(-1390.728, -593.107, 30.808), rotation = vec3(0, 0, -57), virtual = false }
 
     pullstation { name = "Behind Counter - Bar 1", position = vec3(-1384.221, -607.205, 30.62), rotation = vec3(0, 0, 123), virtual = false }
     pullstation { name = "Behind DJ Booth", position = vec3(-1379.265, -613.237, 31.098), rotation = vec3(0.002, -0.004, 122.99), virtual = false }

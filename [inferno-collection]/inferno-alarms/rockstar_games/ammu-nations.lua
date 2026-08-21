@@ -6,7 +6,7 @@
 
 system { name = "Ammu-Nation - Popular St", location = "Popular Street, Cypress Flats", position = vec3(811.607, -2154.82, 29.619) }
 
-    controlpanel { name = "Break Room", position = vec3(828.013, -2156.016, 30.014), rotation = vec3(0, 0, 90), passcode = "", virtual = false }
+    controlpanel { name = "Break Room", position = vec3(828.013, -2156.016, 30.014), rotation = vec3(0, 0, 90), virtual = false }
 
     pullstation { name = "Behind Counter", position = vec3(814.782, -2159.779, 30.045), rotation = vec3(0, 0, 90), virtual = false }
     pullstation { name = "Shooting Range", position = vec3(815.135, -2161.964, 30.011), rotation = vec3(0, 0, -90), virtual = false }
@@ -40,7 +40,7 @@ system { name = "Ammu-Nation - Popular St", location = "Popular Street, Cypress 
 
 system { name = "Ammu-Nation - Adam's Apple Blvd", location = "Adam's Apple Blvd, Pillbox Hill", position = vec3(18.046, -1112.869, 29.797) }
 
-    controlpanel { name = "Break Room", position = vec3(4.842, -1102.239, 30.141), rotation = vec3(0, 0, -110), passcode = "", virtual = false }
+    controlpanel { name = "Break Room", position = vec3(4.842, -1102.239, 30.141), rotation = vec3(0, 0, -110), virtual = false }
 
     pullstation { name = "Behind Counter", position = vec3(18.565, -1103.219, 30.228), rotation = vec3(0, 0, -110), virtual = false }
     pullstation { name = "Shooting Range", position = vec3(18.972, -1101.067, 30.2), rotation = vec3(0, 0, 70), virtual = false }
@@ -75,7 +75,7 @@ system { name = "Ammu-Nation - Adam's Apple Blvd", location = "Adam's Apple Blvd
 
 system { name = "Ammu-Nation - Lindsay Circus", location = "Lindsay Circus, Little Seoul", position = vec3(-664.09, -939.775, 21.829) }
 
-    controlpanel { name = "Behind Counter", position = vec3(-658.877, -936.483, 21.844), rotation = vec3(0, 0, 90), passcode = "", virtual = true }
+    controlpanel { name = "Behind Counter", position = vec3(-658.877, -936.483, 21.844), rotation = vec3(0, 0, 90), virtual = true }
 
     pullstation { name = "Behind Counter", position = vec3(-666.836, -932.785, 22.227), rotation = vec3(0, 0, -90), virtual = false }
 
@@ -95,7 +95,7 @@ system { name = "Ammu-Nation - Lindsay Circus", location = "Lindsay Circus, Litt
 
 system { name = "Ammu-Nation - Palomino Fwy", location = "Palomino Fwy, Tataviam Mountains", position = vec3(2569.664, 299.374, 108.735) }
 
-    controlpanel { name = "Behind Counter", position = vec3(2564.539, 295.519, 108.696), rotation = vec3(0, 0, -90), passcode = "", virtual = false }
+    controlpanel { name = "Behind Counter", position = vec3(2564.539, 295.519, 108.696), rotation = vec3(0, 0, -90), virtual = false }
 
     pullstation { name = "Behind Counter", position = vec3(2572.499, 291.824, 109.129), rotation = vec3(0, 0, 90), virtual = false }
 
@@ -117,7 +117,7 @@ system { name = "Ammu-Nation - Palomino Fwy", location = "Palomino Fwy, Tataviam
 
 system { name = "Ammu-Nation - Morningwood Blvd", location = "Morningwood Blvd, Morningwood", position = vec3(-1311.023, -391.442, 36.696) }
 
-    controlpanel { name = "Behind Counter", position = vec3(-1307.768, -397.228, 36.668), rotation = vec3(0, 0, -14.222), passcode = "", virtual = false }
+    controlpanel { name = "Behind Counter", position = vec3(-1307.768, -397.228, 36.668), rotation = vec3(0, 0, -14.222), virtual = false }
 
     pullstation { name = "Behind Counter", position = vec3(-1302.247, -390.416, 37.099), rotation = vec3(0, 0.001, 165.778), virtual = false }
 
@@ -139,7 +139,7 @@ system { name = "Ammu-Nation - Morningwood Blvd", location = "Morningwood Blvd, 
 
 system { name = "Ammu-Nation - Spanish Ave", location = "Spanish Ave, Hawick", position = vec3(247.4, -46.727, 69.941) }
 
-    controlpanel { name = "Behind Counter", position = vec3(249.946, -52.753, 69.949), rotation = vec3(0, 0, -20), passcode = "", virtual = false }
+    controlpanel { name = "Behind Counter", position = vec3(249.946, -52.753, 69.949), rotation = vec3(0, 0, -20), virtual = false }
 
     pullstation { name = "Behind Counter", position = vec3(256.128, -46.533, 70.375), rotation = vec3(0, 0, 160), virtual = false }
 
@@ -159,7 +159,7 @@ system { name = "Ammu-Nation - Spanish Ave", location = "Spanish Ave, Hawick", p
 
 system { name = "Ammu-Nation - Route 68", location = "Route 68, Zancudo River", position = vec3(-1115.309, 2693.418, 18.554) }
 
-    controlpanel { name = "Behind Counter", position = vec3(-1114.497, 2699.861, 18.527), rotation = vec3(0, 0, 131.827), passcode = "", virtual = false }
+    controlpanel { name = "Behind Counter", position = vec3(-1114.497, 2699.861, 18.527), rotation = vec3(0, 0, 131.827), virtual = false }
 
     pullstation { name = "Behind Counter", position = vec3(-1122.896, 2697.31, 18.981), rotation = vec3(0, 0, -48.173), virtual = false }
 
@@ -181,7 +181,7 @@ system { name = "Ammu-Nation - Route 68", location = "Route 68, Zancudo River", 
 
 system { name = "Ammu-Nation - Algonquin Blvd", location = "Algonquin Blvd, Sandy Shores", position = vec3(1696.05, 3755.114, 34.705) }
 
-    controlpanel { name = "Behind Counter", position = vec3(1696.696, 3761.516, 34.683), rotation = vec3(0, 0, 137.392), passcode = "", virtual = false }
+    controlpanel { name = "Behind Counter", position = vec3(1696.696, 3761.516, 34.683), rotation = vec3(0, 0, 137.392), virtual = false }
 
     pullstation { name = "Behind Counter", position = vec3(1688.597, 3758.152, 35.133), rotation = vec3(0, 0, -42.608), virtual = false }
 
@@ -197,7 +197,7 @@ system { name = "Ammu-Nation - Algonquin Blvd", location = "Algonquin Blvd, Sand
 
 system { name = "Ammn-Nation - Great Ocean Hwy", location = "Great Ocean Hwy, Paleto Bay", position = vec3(-326.97, 6078.606, 31.455) }
 
-    controlpanel { name = "Behind Counter", position = vec3(-327.157, 6085.317, 31.459), rotation = vec3(0, 0, 135), passcode = "", virtual = false }
+    controlpanel { name = "Behind Counter", position = vec3(-327.157, 6085.317, 31.459), rotation = vec3(0, 0, 135), virtual = false }
 
     pullstation { name = "Behind Counter", position = vec3(-335.407, 6082.311, 31.883), rotation = vec3(0, 0, -45), virtual = false }
 
@@ -219,7 +219,7 @@ system { name = "Ammn-Nation - Great Ocean Hwy", location = "Great Ocean Hwy, Pa
 
 system { name = "Ammu-Nation - Barbareno Rd", location = "Barbareno Rd, Chumash", position = vec3(-3172.94, 1090.8, 20.84) }
 
-    controlpanel { name = "Behind Counter", position = vec3(-3169.537, 1090.361, 20.809), rotation = vec3(0, 0, 156.581), passcode = "", virtual = false }
+    controlpanel { name = "Behind Counter", position = vec3(-3169.537, 1090.361, 20.809), rotation = vec3(0, 0, 156.581), virtual = false }
 
     pullstation { name = "Behind Counter", position = vec3(-3176.053, 1084.509, 21.272), rotation = vec3(0, 0, -23.419), virtual = false }
 
@@ -239,7 +239,7 @@ system { name = "Ammu-Nation - Barbareno Rd", location = "Barbareno Rd, Chumash"
 
 system { name = "Ammu-Nation - Olypic Fwy", location = "Olympic Fwy, La Mesa", position = vec3(844.048, -1027.35, 28.195) }
 
-    controlpanel { name = "Behind Counter", position = vec3(839.004, -1032.38, 28.168), rotation = vec3(0, 0, -90), passcode = "", virtual = false }
+    controlpanel { name = "Behind Counter", position = vec3(839.004, -1032.38, 28.168), rotation = vec3(0, 0, -90), virtual = false }
 
     pullstation { name = "Behind Counter", position = vec3(846.598, -1036.464, 28.644), rotation = vec3(0, 0, 90), virtual = false }
 
